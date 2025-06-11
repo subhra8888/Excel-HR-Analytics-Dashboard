@@ -11,7 +11,7 @@ Developed entirely in Microsoft Excel, this dashboard integrates advanced charts
 * Filtering by education and department
 * Clean, intuitive layout with visual storytelling
 
-## 🧰 Features
+## 📌 Dashboard Elements
 * ⭐ Job Satisfaction Rating – Overall employee satisfaction on a 4-star scale
 * 📌 KPI Cards – Total Employees, Attrition Count, Active Employees, Attrition Rate %, Average Age
 * 👨‍👩‍👧‍👦 Gender-wise Distribution – Total employees by gender
