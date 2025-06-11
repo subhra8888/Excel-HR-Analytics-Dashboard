@@ -5,4 +5,10 @@ The HR Analytics Dashboard aims to help understand key drivers behind employee a
 Developed entirely in Microsoft Excel, this dashboard integrates advanced charts and slicers to present a comprehensive view of employee data and attrition trends.
 
 ## 🧰 Features
--Dynamic and interactive dashboard built in Excel
+* Dynamic and interactive dashboard built in Excel
+* Key KPIs with real-time insights on attrition
+* Visual breakdown by age, gender, education, job role, and more
+* Filtering by education and department
+* Clean, intuitive layout with visual storytelling
+
+
