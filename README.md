@@ -32,7 +32,9 @@ Developed entirely in Microsoft Excel, this dashboard integrates advanced charts
 * Gender-based attrition: Male employees face a higher attrition rate (17.01%) than females
 
 ## 🖼️ Report Screenshot
-
+* **Final Report View**
+  
+![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Final%20Report%20View.png)
 
 
 
