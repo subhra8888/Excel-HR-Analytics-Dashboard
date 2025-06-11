@@ -31,6 +31,8 @@ Developed entirely in Microsoft Excel, this dashboard integrates advanced charts
 * Overall job satisfaction: 2.6 out of 4 stars
 * Gender-based attrition: Male employees face a higher attrition rate (17.01%) than females
 
+## 🖼️ Report Screenshot
+
 
 
 
