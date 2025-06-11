@@ -34,7 +34,7 @@ Developed entirely in Microsoft Excel, this dashboard integrates advanced charts
 ## 🖼️ Report Screenshot
 * **Final Report View**
   
-![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Final%20Report%20View.png)
+![image alt](https://github.com/subhra8888/Excel-HR-Analytics-Dashboard/blob/main/Final%20Dashboard%20View.png)
 
 
 
