@@ -22,6 +22,10 @@ Developed entirely in Microsoft Excel, this dashboard integrates advanced charts
 * 💍 Marital Status-wise Attrition
 * 🎛️ Filter Panel – Interactive slicers for Education and Department fields
 
+## 📌 Dashboard Elements
+* 🔹 Total attrition rate: 16.12%
+* 🔹 Highest department attrition: R&D at 56.12%
+
 
 
 
