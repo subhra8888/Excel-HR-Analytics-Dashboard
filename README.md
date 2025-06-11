@@ -23,8 +23,21 @@ Developed entirely in Microsoft Excel, this dashboard integrates advanced charts
 * 🎛️ Filter Panel – Interactive slicers for Education and Department fields
 
 ## 📌 Dashboard Elements
-* 🔹 Total attrition rate: 16.12%
-* 🔹 Highest department attrition: R&D at 56.12%
+🔹 Total attrition rate: 16.12%
+🔹 Highest department attrition: R&D at 56.12%
+🔹 Age group with maximum attrition: 25–34 years
+🔹 Marital status with highest attrition: Married employees
+🔹 Education level with most attrition: Bachelor’s degree holders
+🔹 Overall job satisfaction: 2.6 out of 4 stars
+🔹 Gender-based attrition: Male employees face a higher attrition rate (17.01%) than females
+
+
+
+
+
+
+
+
 
 
 
